@@ -1,0 +1,48 @@
+div#KDLSA{
+    width: 23cm;
+    height: 70px;
+    background-color: darkgreen;
+    position: relative;
+    top:-20px;
+    left: 59px;
+    right: 20px;
+}
+
+div#Informacion{
+    width: 10cm ;
+    height: 70px;
+    background-color: chartreuse;
+    position: relative;
+    top: -80px;
+    left: 491px;
+}
+
+div#Contenido{
+    width: 870px;
+    height: 500px;
+    background-color: gainsboro;
+    position: relative;
+    left: 59px;
+    top: -50px;
+}
+
+div#menu{
+    width: 300px;
+    height: 590px;
+    background-color: greenyellow;
+    position: relative;
+    top:-640px;
+    left: 980px;
+}
+
+a.Inicio{
+    display: block;
+    width: 260px;
+    height: 80px;
+    background-color: antiquewhite;
+    position: relative;
+    top:20px;
+    left:20px;
+    text-decoration: none;
+    color:black
+}
