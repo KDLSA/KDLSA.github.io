@@ -71,3 +71,9 @@ h1.info{
     top:30px;
 
 }
+
+a.Novedades{
+    display: block;
+    width: 260px;
+    height: 90px;
+}
