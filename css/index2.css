@@ -76,4 +76,13 @@ a.Novedades{
     display: block;
     width: 260px;
     height: 90px;
+    text-align: center;
+    text-decoration: none;
+    color: black;
+}
+
+h1.noves{
+    font-size: 7mm;
+    position: relative;
+    top:30px
 }
