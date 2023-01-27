@@ -16,3 +16,12 @@ div#Novedades{
     top: -80px;
     left: 491px;
 }
+
+div#Contenido{
+    width: 870px;
+    height: 900px;
+    background-color: gainsboro;
+    position: relative;
+    top: -80px;
+    left: 59px;
+}
