@@ -7,3 +7,10 @@ div#KDLSA{
     left: 60px;
     right: 20px;
 }
+
+div#Novedades{
+    width: 10cm;
+    height: 70px;
+    background-color: chartreuse;
+    float: right;
+}
