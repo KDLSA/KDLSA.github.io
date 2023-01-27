@@ -47,7 +47,7 @@ button#Avanzar{
 }
 
 button#retroceder{
-    display: block;
+    display: none;
     width: 80px;
     height: 80px;
     background-color: antiquewhite;
