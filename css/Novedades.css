@@ -45,3 +45,13 @@ button#Avanzar{
     top: 550px ;
     left: 20px;
 }
+
+button#retroceder{
+    display: block;
+    width: 80px;
+    height: 80px;
+    background-color: antiquewhite;
+    position: relative;
+    top: 550px ;
+    left: 20px;
+}
