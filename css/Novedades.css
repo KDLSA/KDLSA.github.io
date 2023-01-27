@@ -12,5 +12,7 @@ div#Novedades{
     width: 10cm;
     height: 70px;
     background-color: chartreuse;
-    float: right;
+    position: relative;
+    top: -80px;
+    left: 491px;
 }
