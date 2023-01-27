@@ -38,11 +38,12 @@ div#Contenido2{
 
 button#Avanzar{
     display: block;
-    width: 80px;
+    width: 200px;
     height: 80px;
     background-color: antiquewhite;
     float: left;
-    margin-left: 5px;
+    margin-left: 20px;
+    margin-top: 20px;
 }
 
 button#retroceder{
