@@ -59,5 +59,6 @@ div#Acciones{
     height: 120px;
     background-color: darkolivegreen;
     position: relative;
-    top: 425px;
+    top: -15px;
+    left: 60px;
 }
