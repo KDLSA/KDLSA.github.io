@@ -25,3 +25,23 @@ div#Contenido{
     top: 2.3cm;
     left: 59px;
 }
+
+div#Contenido2{
+    width: 870px;
+    height: 900px;
+    background-color: gainsboro;
+    position: relative;
+    top: 2.3cm;
+    left: 59px;
+    display: none;
+}
+
+button#Avanzar{
+    display: block;
+    width: 80px;
+    height: 80px;
+    background-color: antiquewhite;
+    position: relative;
+    top: 855px ;
+    left: 20px;
+}
