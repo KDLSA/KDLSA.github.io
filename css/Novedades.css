@@ -51,7 +51,14 @@ button#retroceder{
     width: 80px;
     height: 80px;
     background-color: antiquewhite;
+    float: left;
+    margin-left: 5px;
+}
+
+div#Acciones{
+    width: 870px;
+    height: 120px;
+    background-color: darkolivegreen;
     position: relative;
-    top: 550px ;
-    left: 20px;
+    top: 870px;
 }
