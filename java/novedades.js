@@ -17,3 +17,4 @@ function Contenidomostrar(){
     document.getElementById("Contenido").style.display = "block"
     document.getElementById("Avanzar").style.display = "block"
 }
+
