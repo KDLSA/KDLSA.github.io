@@ -6,6 +6,7 @@ div#KDLSA{
     top: -24.5cm;
     left: 60px;
     right: 20px;
+    display: block;
 }
 
 div#404page{
@@ -15,4 +16,5 @@ div#404page{
     position: relative;
     top: -80px;
     left: 491px;
+    display: block;
 }
