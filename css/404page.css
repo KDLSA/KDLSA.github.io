@@ -18,3 +18,17 @@ div#404page{
     left: 491px;
     display: block;
 }
+
+a.index{
+    display: block;
+    width: 210px;
+    height: 70px;
+    background-color: antiquewhite;
+    text-decoration: none;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    position: relative;
+    top: 276px;
+    left: 92px
+}
