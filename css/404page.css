@@ -1,0 +1,18 @@
+div#KDLSA{
+    width: 23cm;
+    height: 70px;
+    background-color: darkgreen;
+    position: relative;
+    top: -24.5cm;
+    left: 60px;
+    right: 20px;
+}
+
+div#404page{
+    width: 10cm;
+    height: 70px;
+    background-color: chartreuse;
+    position: relative;
+    top: -80px;
+    left: 491px;
+}
