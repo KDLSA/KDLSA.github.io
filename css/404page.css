@@ -19,7 +19,7 @@ div#404page{
     display: block;
 }
 
-a.index{
+button#index{
     display: block;
     width: 210px;
     height: 70px;
