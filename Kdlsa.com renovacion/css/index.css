@@ -1,6 +1,6 @@
 div#Contenido{
+    display: block;
     width: 50%;
     height: 400px;
-    color: yellowgreen;
-    box-align: center
+    background-color: yellowgreen;
 }
