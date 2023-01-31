@@ -5,3 +5,10 @@ div#Contenido{
     height: 600px;
     background-color: yellowgreen;
 }
+
+div#Barralateralizq{
+    float: left;
+    width: 400px;
+    height: 100%;
+    background-color: cornsilk;
+}
