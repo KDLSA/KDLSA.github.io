@@ -13,5 +13,9 @@ header {
 }
 
 section.main{
-    
+    width: 300px;
+    background: beige;
+    padding:20px;
+    float:left  ;
+    box-sizing:border-box;
 }
