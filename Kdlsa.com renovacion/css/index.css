@@ -12,7 +12,7 @@ div.contenedor{
 header {
     background: chartreuse;
     display: flex;
-    height: 70px;
+    min-height: 70px;
     justify-content: space-between;
     align-items: center;
     padding: 10px;
@@ -43,4 +43,10 @@ nav a{
 
 nav a:hover{
     color: bisque
+}
+
+@media (max-width:700px){
+    header{
+        flex-direction: column;
+    }
 }
