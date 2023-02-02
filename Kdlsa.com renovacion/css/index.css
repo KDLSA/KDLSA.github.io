@@ -22,3 +22,7 @@ section.main{
     float:left  ;
     box-sizing:border-box;
 }
+
+.Title{
+    display: flex;
+}
