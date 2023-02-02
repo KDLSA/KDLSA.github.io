@@ -13,6 +13,7 @@ header {
     background: chartreuse;
     display: flex;
     height: 70px;
+    justify-content: space-between;
 }
 
 section.main{
