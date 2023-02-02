@@ -4,7 +4,6 @@ body{
 
 div.contenedor{
     width: 100%;
-    max-width: 1000px;
     margin: 0 auto;
     overflow: hidden;
 
@@ -13,6 +12,7 @@ div.contenedor{
 header {
     background: chartreuse;
     display: flex;
+    height: 70px;
 }
 
 section.main{
