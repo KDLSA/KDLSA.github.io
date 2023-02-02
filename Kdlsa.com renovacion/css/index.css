@@ -9,7 +9,7 @@ div.contenedor{
 
 header {
     background: chartreuse;
-    margin: 20px 0;
+    display: flex;
 }
 
 section.main{
