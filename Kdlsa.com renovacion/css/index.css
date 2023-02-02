@@ -50,3 +50,10 @@ nav a:hover{
         flex-direction: column;
     }
 }
+
+div.main{
+    height: 1000px;
+    width: 70%;
+    min-width:360px;
+    align-items: center;
+}
