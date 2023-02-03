@@ -59,3 +59,8 @@ div.main{
     justify-content: center;
     background-color: white;
 }
+
+article{
+    display:flex ;
+    justify-content: center;
+}
