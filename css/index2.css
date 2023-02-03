@@ -1,88 +1,67 @@
-
-
-div#pagina{
-    margin:auto;
-    margin-top: 50px;
-    width: 1600px;
-    height: 800px;
-    background-color: green;
+body{
+    margin: 0;
 }
 
-div#button{
-    float: left;
-    width: 300px;
-    height: 600px;
-    background-color: greenyellow;
+div.contenedor{
+    width: 100%;
+    margin: 0 auto;
+    overflow: hidden;
+
 }
 
- 
+header {
+    background: chartreuse;
+    display: flex;
+    min-height: 70px;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+
+section.main{
+    width: 30%;
+    background: beige;
+    padding:20px;
+    float:left  ;
+    box-sizing:border-box;
+}
+
+.Title{
+    display: flex;
+}
+
 a{
-    margin-right: 50px;
-    display: block;
-    margin: 20px;
-    font-family: Arial, Helvetica, sans-serif;
-    width:270px ;
-    height:100px;
-    background-color: antiquewhite;
-    
-}
-
-a.Informacion{
-    display: block;
-    text-decoration: none;
-    font-family: Arial, Helvetica, sans-serif;
-    width: 260px;
-    height: 90px;
-    text-align: center;
-    color:black
-}
-
-div#image{
-    
-    float:right ;
-    width:1200px;
-    height:700px;
-
-}
-
-img{
-    margin-right: 20px;
-    width:1000px;
-    height:600px;
-}
-
-a.Archivos{
-    width: 260px;
-    height: 90px;
-    text-align: center;
     text-decoration: none;
     color: black;
 }
 
-h1.archivo{
-    font-size: 7mm;
-    position:relative;
-    top:30px
+nav a{
+    font-weight: 600;
+    padding-right: 10px;
+    font-family: sans-serif;
 }
 
-h1.info{
-    font-size: 7mm;
-    position: relative;
-    top:30px;
-
+nav a:hover{
+    color: bisque
 }
 
-a.Novedades{
-    display: block;
-    width: 260px;
-    height: 90px;
-    text-align: center;
-    text-decoration: none;
-    color: black;
+@media (max-width:700px){
+    header{
+        flex-direction: column;
+    }
 }
 
-h1.noves{
-    font-size: 7mm;
-    position: relative;
-    top:30px
+div.main{
+    height: 1000px;
+    width: 80%;
+    min-width:360px;
+    display:flex ;
+    justify-content: center;
+    background-color: white;
+    padding: 20px;
+}
+
+article{
+    display:flex ;
+    justify-content: center;
 }
