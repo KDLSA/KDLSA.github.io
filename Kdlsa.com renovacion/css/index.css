@@ -58,6 +58,7 @@ div.main{
     display:flex ;
     justify-content: center;
     background-color: white;
+    padding: 20px;
 }
 
 article{
