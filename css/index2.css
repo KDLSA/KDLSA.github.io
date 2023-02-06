@@ -65,3 +65,7 @@ article{
     display:flex ;
     justify-content: center;
 }
+
+nav#bar{
+    width: 100%;
+}
