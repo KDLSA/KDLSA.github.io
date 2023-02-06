@@ -68,4 +68,6 @@ article{
 
 nav#bar{
     width: 100%;
+    position: relative;
+    top: 400px;
 }
